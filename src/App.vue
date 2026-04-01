@@ -3,6 +3,6 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  sadadasasdasdadadaasasdas111
+  swuhu
   <!-- <HelloWorld /> -->
 </template>
