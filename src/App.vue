@@ -14,10 +14,10 @@
 
     <!-- 主内容区 -->
     <div class="container">
-      <h1 class="title">致雨夜路边小小的蛙</h1>
+      <h1 class="title">致雨夜路边小蛙</h1>
 
-      <p class="line line1">今天骑车赶路，心思仓促，</p>
-      <p class="line line2">没能及时刹住车，惊扰了你短暂的一生。</p>
+      <p class="line line1">昨夜骑车疏忽</p>
+      <p class="line line2">没能刹车，惊扰了你短暂的一生。</p>
       <p class="line line3">我看见你们结伴路过路口，</p>
       <p class="line line4">却偏偏让无辜的你，撞上我的疏忽。</p>
 
@@ -35,7 +35,7 @@
       <p class="line line11">愿来生做一只自在无忧的小蛙，</p>
       <p class="line line12">日日栖于青草丛，夜夜安于月光下。</p>
 
-      <h2 class="sorry">小小的蛙，真的很对不起 🙏</h2>
+      <h2 class="sorry">小蛙，真的很对不起 🙏</h2>
       <p class="bless">以此一念，为你祈福</p>
     </div>
   </div>
